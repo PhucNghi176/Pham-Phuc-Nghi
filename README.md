@@ -12,4 +12,4 @@
 
 ![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhucNghi176&show_icons=true&theme=synthwave&hide=contribs,prs,issues)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=NIO2&theme=solarized-light)](https://github.com/GiaBaorr/NIO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=NIO2&theme=solarized-light)](https://github.com/PhucNghi176/NIO2)
