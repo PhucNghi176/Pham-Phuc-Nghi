@@ -6,7 +6,7 @@
 ### I'm currently intereting at these languages and frameworks
 
 - Java/SpringBoot
-- C#/.NET Core
+- C#/.NET 7
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhucNghi176&theme=nightowl&langs_count=4&layout=compact)
 
