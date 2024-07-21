@@ -13,3 +13,6 @@
 ![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhucNghi176&show_icons=true&theme=synthwave&hide=contribs,prs,issues)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=NIO2&theme=solarized-light)](https://github.com/PhucNghi176/NIO2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=ServerManagementApplication&theme=dracula)](https://github.com/PhucNghi176/ServerManagementApplication)
+
+#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=BE_WEB_DEER-COFFE-MANAGEMENT&theme=dracula)](https://github.com/PhucNghi176/BE_WEB_DEER-COFFE-MANAGEMENT) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhucNghi176&repo=NhaMayThep&theme=solarized-light)](https://github.com/PhucNghi176/NhaMayThep)
